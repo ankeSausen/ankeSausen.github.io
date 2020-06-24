@@ -13,5 +13,7 @@ Seit dem schlaegt sie sich mit Ach und Krach durchs Leben.
 * Hobbies:
   * Motorrad fahren
 ## Zitat
-Cindy: > Damn, girl, what's in those pills?
-Max: > Spinach.
+Cindy: 
+> Damn, girl, what's in those pills?
+Max: 
+> Spinach.
