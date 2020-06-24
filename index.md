@@ -5,10 +5,10 @@ Sie wurde bis zu ihrem 12. Lebensjahr in Manticore einem brutalen Training unter
 Seit dem schlaegt sie sich mit Ach und Krach durchs Leben.
 ## Charakter Eigenschaften
 * Spezies:
-** durch Katzengene optimierte Kämpferin
+  * durch Katzengene optimierte Kaempferin
 * Beruf:
-** Fahrradkurier bei JamPony
+  * Fahrradkurier bei JamPony
 * Nebenjob:
-** begabte Einbrecherin
+  * begabte Einbrecherin
 * Hobbies:
-** Motorrad fahren
+  * Motorrad fahren
